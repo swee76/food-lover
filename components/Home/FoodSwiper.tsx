@@ -5,7 +5,6 @@ import Image from "next/image";
 import {Swiper, SwiperSlide} from "swiper/react";
 import {Autoplay, Navigation, Pagination} from 'swiper/modules';
 import {SwiperOptions} from "swiper/types";
-import {motion} from 'framer-motion'
 
 const imgArray = ['/img/pizza.jpg', '/img/dose.jpg', '/img/fries.jpg', '/img/noodles.jpg', '/img/seafood-grill.jpg', '/img/shawarma.jpg', '/img/toast-bread.jpg']
 
