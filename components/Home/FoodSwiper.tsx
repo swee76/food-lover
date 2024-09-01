@@ -12,7 +12,7 @@ const FoodSwiper = () => {
     const options: SwiperOptions = {
         allowTouchMove: true,
         cssMode: true,
-        autoplay: {delay: 1000},
+        autoplay: {delay: 3000},
         speed: 4000,
         loop: true,
         pagination: {enabled: true, clickable: true},
